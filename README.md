@@ -1,6 +1,6 @@
 ### 👋 Olá, Nicoly [Dandara] aqui
 
-Eu estudo Informática (com foco em desenvolvimento de Software) no [CEFET-MG](https://www.cefetmg.br/). Meu próximo passo é um diploma em Design.
+Eu estudo Informática (com foco em desenvolvimento de Software) no [CEFET-MG](https://www.cefetmg.br/).
 
      🌈 Design e Desenvolvimento 🌈 andam lado a lado, a
      maioria das pessoas só não percebeu ainda. Eu
