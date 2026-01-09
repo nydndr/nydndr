@@ -1,4 +1,10 @@
-## Hi there 👋
+🎨 + ⌨️ + 🖼️
+
+A product designer, front end enthusiast and curatorial master that takes things very seriously everywhere.
+
+[Check my stuff out &rarr;](https://adandara.com) <br />
+[Find me on Twitter @amarelodandara &rarr;](https://x.com/amarelodandara) <br />
+[Subscribe to my newsletter](https://nydndr.substack.com) <br />
 
 <!--
 **nydndr/nydndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
