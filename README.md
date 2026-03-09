@@ -4,7 +4,7 @@ A product designer, front end enthusiast and curatorial master that takes things
 
 [Check my stuff out &rarr;](https://adandara.com) <br />
 [Find me on Twitter @amarelodandara &rarr;](https://x.com/amarelodandara) <br />
-[Subscribe to my newsletter](https://nydndr.substack.com) <br />
+[Ouça meu podcast &rarr;](https://open.spotify.com/show/043Gs7eyY2KOlotEWSTSxB?si=202c36a3174e45b0) <br />
 
 <!--
 **nydndr/nydndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
