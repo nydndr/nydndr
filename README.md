@@ -1,4 +1,4 @@
-$design + code = amarelo canário + #ffcc00$
+$design + code = amarelo canário + ffcc00$
 
 [Website &rarr;](https://adandara.com) | [Twitter &rarr;](https://x.com/amarelodandara) | [Newsletter & Podcast &rarr;](https://open.spotify.com/show/043Gs7eyY2KOlotEWSTSxB?si=202c36a3174e45b0) 
 
