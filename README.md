@@ -1,6 +1,6 @@
 $design + code = amarelo canário + ffcc00$
 
-[Website &rarr;](https://adandara.com) | [Twitter &rarr;](https://x.com/amarelodandara) | [Newsletter & Podcast &rarr;](https://open.spotify.com/show/043Gs7eyY2KOlotEWSTSxB?si=202c36a3174e45b0) 
+[Website](https://adandara.com) | [Twitter](https://x.com/amarelodandara) | [Newsletter & Podcast](https://open.spotify.com/show/043Gs7eyY2KOlotEWSTSxB?si=202c36a3174e45b0) 
 
 <!--
 **nydndr/nydndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
